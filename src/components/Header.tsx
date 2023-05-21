@@ -63,7 +63,7 @@ export function Header() {
     <Wrapper>
       <NavigationLink to="/">
         <Logo src="/logo.png" />
-        <div className="label">Gamba Demo</div>
+        <div className="label">Techybara Casino</div>
       </NavigationLink>
       <Links>
         <a target="_blank" href="https://github.com/gamba-labs/gamba" rel="noreferrer">

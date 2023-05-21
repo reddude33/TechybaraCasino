@@ -5,7 +5,7 @@ export default {
   name: 'Slots',
   short_name: 'slots',
   description: '',
-  creator: 'DwRFGbjKbsEhUMe5at3qWvH7i8dAJyhhwdnFoZMnLVRV',
+  creator: 'Hsz3QMdcKpXYfaNW6k2CidbGrLtCLFkawmPsr4Wq5UBF',
   image,
   theme_color: '#ad6bff',
   app: React.lazy(() => import('./App')),
